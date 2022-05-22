@@ -19,7 +19,7 @@ class _MainAppState extends State<MainApp> {
         backgroundColor: Colors.white,
         elevation: 0,
         centerTitle: true,
-        title: const Text('Color picker', style: TextStyle(color: Colors.red)),
+        title: const Text('Color pickerrrrrrrrr', style: TextStyle(color: Colors.red)),
       ),
       body: Container(
         color: Colors.white,
